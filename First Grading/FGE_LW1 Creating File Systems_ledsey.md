@@ -1,19 +1,5 @@
-+-----------------------+-----------------------+-----------------------+
-| ![](vertopal_2        |                       |                       |
-| 19dd35fc3294badaa45ec |                       |                       |
-| ce37816533/media/imag |                       |                       |
-| e1.png){width="2.4in" |                       |                       |
-| height="0.5875in"}    |                       |                       |
-|                       |                       |                       |
-| SCHOOL OF INFORMATION |                       |                       |
-| AND TECHNOLOGY        |                       |                       |
-+=======================+=======================+=======================+
-| > NAME: Ledsey Shad   | > DATE PERFORMED:     |                       |
-| > warren A.           | > 22/08/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Section: IDC2       | > DATE SUBMITTED:     |                       |
-|                       | > 22/08/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/d0cd831e-0176-4e97-acce-f4e8e8816938)
+
 
 SYSADM1 -- Introduction to File Systems in Windows and Linux\
 Requirement:\

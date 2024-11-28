@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 13e08d5133f74958aad33a230893e461 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Ledsey shad Warren A.      | DATE PERFORMED:        |          |
-|                                  | 29/08/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 29/08/2024             |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/8ceb06d7-79d7-4faa-a6f2-1df7a2b679c6)
+
 
 # SYSADM1 -- Managing Services in Windows
 

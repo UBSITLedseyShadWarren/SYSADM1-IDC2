@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/883b208c-5beb-41f7-8bfb-a38483c5fc5f)
+
 
 
 # SYSADM1 -- Physical Infrastructure

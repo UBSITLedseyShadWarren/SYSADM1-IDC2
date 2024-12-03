@@ -39,29 +39,27 @@ Page **2** of **4**
 4\. Check the status of the cups services. Since when was it running?
 SS:
 
-> ![](vertopal_5f230b20d77d417da1cd651243ef9c10/media/image6.png){width="7.027777777777778in"
-> height="4.177777777777778in"}
+![image](https://github.com/user-attachments/assets/dc2d2f2a-54e9-45a6-96b4-da295cd9c6e1)
+
 
 5\. Stop cups services.
 
-> ![](vertopal_5f230b20d77d417da1cd651243ef9c10/media/image7.png){width="7.027777777777778in"
-> height="0.8569444444444444in"}
+![image](https://github.com/user-attachments/assets/35df0e7c-c622-44fb-a219-6e23702d94e8)
+
 
 6\. Verify if the service was stopped.
 
 Page **3** of **4**
 
-> ![](vertopal_5f230b20d77d417da1cd651243ef9c10/media/image8.png){width="7.027777777777778in"
-> height="3.8777777777777778in"}
->
+![image](https://github.com/user-attachments/assets/b81da06c-2815-49c9-b805-b0be3de67868)
+
 > 7\. Restart the cups services
 
-![](vertopal_5f230b20d77d417da1cd651243ef9c10/media/image9.png){width="7.027777777777778in"
-height="0.20416666666666666in"}
+![image](https://github.com/user-attachments/assets/99d37ad2-5dc7-4251-a147-a6f190bf3c5a)
+
 
 > 8\. Verify if the service was restarted.
->
-> ![](vertopal_5f230b20d77d417da1cd651243ef9c10/media/image10.png){width="7.027777777777778in"
-> height="3.3805544619422574in"}
+![image](https://github.com/user-attachments/assets/ab9e4589-97ce-4efc-a886-2ad0b8a503d2)
+
 
 Page **4** of **4**

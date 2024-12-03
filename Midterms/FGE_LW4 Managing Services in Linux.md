@@ -14,19 +14,8 @@ services.\
 List down active and inactive services in the table below. Provide five
 (5) services for each column.
 
-+-----------------------------------+-----------------------------------+
-| **Active**                        | **Inactive**                      |
-+===================================+===================================+
-| > Cron                            | > Bluetooth                       |
-+-----------------------------------+-----------------------------------+
-| > dbus                            | > Alsa-utils                      |
-+-----------------------------------+-----------------------------------+
-| > cups                            | > Grub-common                     |
-+-----------------------------------+-----------------------------------+
-| > Annacron                        | > saned                           |
-+-----------------------------------+-----------------------------------+
-| > apparmor                        | > rsync                           |
-+-----------------------------------+-----------------------------------+
+![image](https://github.com/user-attachments/assets/19d8f8c9-12fb-45e9-960a-4eab795f08a4)
+
 
 > SS:
 >
@@ -37,21 +26,16 @@ List down active and inactive services in the table below. Provide five
 
 > Ex. sudo systemctl start httpd
 
-  ---------------------------------------------------------------------------------------------
-  ![](vertopal_5f230b20d77d417da1cd651243ef9c10/media/image4.png){width="4.359721128608924in"
-  height="1.1875in"}
-  ---------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/a555edf6-d604-4f5f-b66b-38771271e68c)
 
-  ---------------------------------------------------------------------------------------------
 
 3\. Check the status of the Bluetooth service. What is its status?
 
 Page **2** of **4**
 
 > SS:
->
-> ![](vertopal_5f230b20d77d417da1cd651243ef9c10/media/image5.png){width="7.027777777777778in"
-> height="2.5277777777777777in"}
+![image](https://github.com/user-attachments/assets/7143a99d-671a-4a94-8f01-3340868d0e27)
+
 
 4\. Check the status of the cups services. Since when was it running?
 SS:

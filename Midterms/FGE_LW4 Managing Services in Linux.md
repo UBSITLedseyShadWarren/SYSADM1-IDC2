@@ -1,19 +1,5 @@
-+-----------------------+-----------------------+-----------------------+
-| ![](vertopal_5        |                       |                       |
-| f230b20d77d417da1cd65 |                       |                       |
-| 1243ef9c10/media/imag |                       |                       |
-| e1.png){width="2.4in" |                       |                       |
-| height="0.5875in"}    |                       |                       |
-|                       |                       |                       |
-| SCHOOL OF INFORMATION |                       |                       |
-| AND TECHNOLOGY        |                       |                       |
-+=======================+=======================+=======================+
-| > NAME: Ledsey Shad   | > DATE PERFORMED:     |                       |
-| > Warren A            | > 12/9/2024           |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Section: IDC2       | > DATE                |                       |
-|                       | > SUBMITTED:12/9/2024 |                       |
-+-----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/97f61df3-a91c-4afe-9c76-e6af8a3d3f35)
+
 
 SYSADM1 -- Managing Services in Linux\
 Requirement:\

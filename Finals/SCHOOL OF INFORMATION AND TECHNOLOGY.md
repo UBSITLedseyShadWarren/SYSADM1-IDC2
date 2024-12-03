@@ -18,12 +18,12 @@ students and teaching staff renting devices and accessories).
     users of TechLease\'s rental services, instructors, and students
     renting devices or accessories, are subject to this policy.
 
-    1.  General Usage Guidelines
+    2.  General Usage Guidelines
 
     ```{=html}
     <!-- -->
     ```
-    1.  Permitted Uses
+    2.1.  Permitted Uses
 
 > \- using laptops, tablets, cellphones, and upgrades for communication,
 > teaching, coursework, and scholarly research making use of the rental
@@ -42,9 +42,9 @@ students and teaching staff renting devices and accessories).
 > - Sharing gadgets that have been rented without permission or giving
 > the rental to a third party.
 
-3\. Device Care and Maintenance
+3. Device Care and Maintenance
 
-1.  User Responsibilities
+3.1.  User Responsibilities
 
 -   Keeping devices clean and free from physical damage.
 
@@ -53,14 +53,14 @@ students and teaching staff renting devices and accessories).
 
 -   Regularly saving work and files to prevent data loss.
 
-    1.  Prohibited Actions
+ 3.2.  Prohibited Actions
 
 -   Disassembling, modifying, or attempting to repair the device.
 
 -   Exposing devices to extreme temperatures, water, or hazardous
     conditions.
 
-    1.  Consequences of Neglect
+3.3.  Consequences of Neglect
 
 -   Loss of the privilege to rent devices from TechLease in the future.
 
@@ -71,14 +71,14 @@ students and teaching staff renting devices and accessories).
     ```{=html}
     <!-- -->
     ```
-    1.  User Data
+    4.1.  User Data
 
 -   TechLease defends the security and privacy of user information.
     Users are in charge of making sure they don\'t keep more private,
     sensitive, or sensitive data on rented devices than is necessary for
     work or school-related purposes.
 
-    1.  Privacy Compliance
+    4.2.  Privacy Compliance
 
 -   Staying away from access credentials or private passwords to
     unapproved parties.
@@ -86,7 +86,7 @@ students and teaching staff renting devices and accessories).
 -   Ensuring the safe storage of personal information and preventing
     illegal access or release.
 
-    4.  Penalties for Policy Violations
+  5.  Penalties for Policy Violations
 
 5.1 Consequences
 
@@ -100,7 +100,7 @@ violation is moderate or recurring.
 replacement costs of damaged or lost devices, as well as any additional
 fees incurred due to violation of the policy.
 
-5.  Appeal Process (Offer a way to appeal penalties if users believe
+6.  Appeal Process (Offer a way to appeal penalties if users believe
     they were unfairly penalized)
 
 # If a user believes that they have been unfairly penalized, they have the right to appeal the decision. To begin the appeal process, users must submit a formal written appeal to TechLease's Customer Service Department of receiving the penalty notice. The appeal should clearly explain why the user believes the penalty is unjustified. TechLease will review the appeal, assess any relevant evidence, and communicate the decision.

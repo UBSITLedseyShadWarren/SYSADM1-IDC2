@@ -18,9 +18,8 @@ List down active and inactive services in the table below. Provide five
 
 
 > SS:
->
-> ![](vertopal_5f230b20d77d417da1cd651243ef9c10/media/image3.png){width="6.688888888888889in"
-> height="5.031944444444444in"}
+![image](https://github.com/user-attachments/assets/7b31de87-1488-4c19-89d9-5a94d371a88a)
+
 
 2\. Start the Bluetooth service using the systemctl command.
 

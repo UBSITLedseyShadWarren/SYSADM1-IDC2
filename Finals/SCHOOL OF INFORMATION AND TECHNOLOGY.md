@@ -1,26 +1,5 @@
-+------------------------------+--------------------------------+------+
-| ![https://lh7-               |                                |      |
-| rt.googleusercontent.com/doc |                                |      |
-| sz/AD_4nXeXCP4lESZlwkeQJyev2 |                                |      |
-| -FnyljwB8vWTTEkNTDKs6gIb_kGE |                                |      |
-| 4RFyaiEB5QpuneTpJ7yNp8FFmMLU |                                |      |
-| 8r1LHJAbmFS6G6A8AfBGj6r2SSWU |                                |      |
-| qHjm48tT2shuBWEoL0C-9mccBGei |                                |      |
-| vKup97lCqSCb6cWwZAE8tnZ?key= |                                |      |
-| jKLXJWfkr7IL2MfEpYqq_A](vert |                                |      |
-| opal_e2ea1402bff34bfa9cc4428 |                                |      |
-| d453365d2/media/image1.png){ |                                |      |
-| width="2.3958333333333335in" |                                |      |
-| he                           |                                |      |
-| ight="0.5833333333333334in"} |                                |      |
-|                              |                                |      |
-| SCHOOL OF INFORMATION AND    |                                |      |
-| TECHNOLOGY                   |                                |      |
-+==============================+================================+======+
-| NAME: Ledsey shad Warren A.  | DATE PERFORMED: 05/11/2024     |      |
-+------------------------------+--------------------------------+------+
-| IDC 2                        |                                |      |
-+------------------------------+--------------------------------+------+
+![image](https://github.com/user-attachments/assets/bd36b0b6-44fb-4089-a757-920a6d59d402)
+
 
 1.  Purpose and Scope (Explain the intent of the policy, emphasizing
     that the policy supports TechLease's mission to provide accessible,

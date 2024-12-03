@@ -59,6 +59,7 @@ Page **3** of **4**
 
 
 > 8\. Verify if the service was restarted.
+
 ![image](https://github.com/user-attachments/assets/ab9e4589-97ce-4efc-a886-2ad0b8a503d2)
 
 

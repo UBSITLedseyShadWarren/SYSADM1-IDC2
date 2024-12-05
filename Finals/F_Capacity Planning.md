@@ -1,19 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 95477edad9534273b14a3a74b0bf643f |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Ledsey, Shad Warren        | DATE PERFORMED:        | /50      |
-|                                  | 11-28-24               |          |
-| Domisiw, Emerson P.              |                        |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 12-05-24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/25147523-46ef-43c6-9c63-a914a399dd35)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
@@ -27,8 +13,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_95477edad9534273b14a3a74b0bf643f/media/image2.png){width="5.809722222222222in"
-height="4.261805555555555in"}
+![image](https://github.com/user-attachments/assets/2c1ed1ee-59a1-4d05-90b1-72bdbbaa83b1)
+
 
   ----------------- ------------------ ------------------- ---------------------
   Criteria          Excellent \| 10pts Good \| 7pts        Needs Improvement \|

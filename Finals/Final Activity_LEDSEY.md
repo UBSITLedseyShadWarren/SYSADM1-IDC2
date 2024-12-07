@@ -1,20 +1,5 @@
-+--------------------------+------------------+------------------------+
-| ![](ve                   |                  |                        |
-| rtopal_000de29da44b4fd9b |                  |                        |
-| 761ca4fdaab2b4e/media/im |                  |                        |
-| age14.png){width="2.4in" |                  |                        |
-| height                   |                  |                        |
-| ="0.5881944444444445in"} |                  |                        |
-|                          |                  |                        |
-| SCHOOL OF INFORMATION    |                  |                        |
-| AND TECHNOLOGY           |                  |                        |
-+==========================+==================+========================+
-| NAME: Ledsey, Shad       | DATE PERFORMED:  | /40                    |
-| Warren A.                | 28/11/2024       |                        |
-+--------------------------+------------------+------------------------+
-| Section: IDC2            | DATE SUBMITTED:  |                        |
-|                          | 6/12/2024        |                        |
-+--------------------------+------------------+------------------------+
+![image](https://github.com/user-attachments/assets/bf606883-b3ba-4cd9-81c1-f0bc28a3c8cc)
+
 
 SYSADM1 -- Final Requirement
 
@@ -36,8 +21,8 @@ encompass the following elements:
 -   Create a network diagram illustrating the layout of the
     > organization\'s IT infrastructure.
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image10.png){width="9.0in"
-height="5.138888888888889in"}
+![image](https://github.com/user-attachments/assets/ccbc03dc-d423-4cef-b85f-c0ea335fad3b)
+
 
 -   Identify and describe key components such as servers, workstations,
     > firewalls, and switches.
@@ -112,40 +97,37 @@ data, typically stored electronically in a computer system.
 
 1.  Change the name to server and insert the ISO file
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image11.png){width="8.15625in"
-height="4.640625546806649in"}
+![image](https://github.com/user-attachments/assets/c397dfa7-63a7-493e-8689-9bef4fe63970)
 
 2.  Wait for the installation of windows setup
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image13.png){width="9.0in"
-height="6.140625546806649in"}
+![image](https://github.com/user-attachments/assets/ebd68913-46a1-4624-8636-632d7a65299d)
+
 
 3.  Enter a strong password for the built-in Administrator
     > account.Confirm by re-entering the same password. Click **Finish**
     > to complete this step.
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image16.png){width="9.0in"
-height="5.661458880139983in"}
+![image](https://github.com/user-attachments/assets/8d7ef3ac-4227-417d-b565-35c5172799e4)
+
 
 4.  Select server roles to install (ADDS,DNS,DHCP)
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image2.png){width="8.229166666666666in"
-height="5.307292213473316in"}
+![image](https://github.com/user-attachments/assets/a336f9fa-1227-47f5-9c93-de6ceb8d4b6e)
 
 5.  Change your internet protocol version 4 (TCP/IPv4)
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image4.png){width="8.354166666666666in"
-height="5.046875546806649in"}
+![image](https://github.com/user-attachments/assets/bc70723e-124e-4756-8f04-2f53f8f89af0)
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image8.png){width="9.0in"
-height="6.736111111111111in"}
+![image](https://github.com/user-attachments/assets/4c3e63de-8245-408c-8fd2-fe801b7a7ebc)
+
 
 6.  Check is your ip address by entering ipconfig and type nslookup to
     > let users enter a host name and find out the corresponding IP
     > address or domain name system (DNS) record.
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image5.png){width="6.9375in"
-height="3.5520833333333335in"}
+![image](https://github.com/user-attachments/assets/e729d43a-0b5f-4366-b712-628cade35850)
+
 
 ## 
 
@@ -153,11 +135,10 @@ height="3.5520833333333335in"}
 
 1.  Change the name to linux and insert the ISO file
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image17.png){width="8.333333333333334in"
-height="5.109375546806649in"}
+![image](https://github.com/user-attachments/assets/d10c8aa1-6f7b-4776-8c72-26b43ebb2696)
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image3.png){width="8.270833333333334in"
-height="5.71875in"}
+
+![image](https://github.com/user-attachments/assets/290cdfec-0067-44fb-ae95-ca086968a8f5)
 
 2.  Add more base memory to your linux
 
@@ -166,25 +147,23 @@ height="5.359375546806649in"}
 
 3.  Make the hard disk file 50GB
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image12.png){width="8.270833333333334in"
-height="5.760416666666667in"}
+![image](https://github.com/user-attachments/assets/8fca4600-3a07-4f30-97af-9923ecec1a8a)
+
 
 4.  Go to linux terminal and ping your ip address
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image9.png){width="9.0in"
-height="5.578125546806649in"}
+![image](https://github.com/user-attachments/assets/25c3c931-5f9e-4658-93f9-5ea18449c0b4)
+
+
 
 **3. User and Access Management**
 
 -   Outline user roles and access levels, utilizing a least privilege
     > approach.
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image7.png){width="8.145833333333334in"
-height="5.6875in"}
+![image](https://github.com/user-attachments/assets/39840dbe-9a4b-4b95-9644-cb50390217dc)
 
-![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image6.png){width="4.21875in"
-height="5.520833333333333in"}![](vertopal_000de29da44b4fd9b761ca4fdaab2b4e/media/image15.png){width="4.760416666666667in"
-height="4.03125in"}
+![image](https://github.com/user-attachments/assets/718792d8-25f5-480f-b0e7-cd8836f3fc14)
 
 -   Describe how to implement user accounts, groups, and permissions.
 

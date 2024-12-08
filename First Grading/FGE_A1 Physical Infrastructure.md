@@ -71,4 +71,4 @@ also be established in order to handle any problems that may occur
 throughout the shift. Organizations can assist staff members in
 overcoming obstacles, adjusting to changes with ease, and maintaining
 operational continuity during the implementation process by providing
-timely support and resources.
+timely support and resources..
